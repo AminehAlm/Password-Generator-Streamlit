@@ -1,0 +1,11 @@
+# Core framework
+streamlit==1.27.0          # For building the web app interface
+
+# Python standard libraries (no need to install separately, listed for clarity)
+# string, secrets, math
+
+# NLP libraries
+nltk==3.8.1                # For word corpus (brown) and stopwords
+
+# Optional: For caching large datasets efficiently
+pandas==2.1.1              # Used internally by Streamlit caching (recommended)

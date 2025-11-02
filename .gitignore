@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.sqlite3
+*.db
+
+# Environment
+venv/
+.env
+.env.*
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Logs and cache
+logs/
+*.log
+cache/
+.cache/
+streamlit_cache/
+st_cache/
+
+# NLTK data (downloaded corpora)
+nltk_data/
+
+# VS Code
+.vscode/
+
+# System files
+Thumbs.db
+.idea/
