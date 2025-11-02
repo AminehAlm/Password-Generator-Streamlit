@@ -99,7 +99,7 @@ Entropy: 19.93 bits → ⚠️ Weak Password
 ```
 password-generator-app/
 │
-├── app.py                # Main application script
+├── pass-generator-streamlit.py                # Main application script
 ├── requirements.txt      # Python dependencies
 ├── .gitignore            # Ignore unnecessary files
 └── README.md             # Project documentation
